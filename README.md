@@ -4,6 +4,7 @@
 
 
 npm install protobufjs@6.8.4 -g
+
 npm install @egret/protobuf -g
 
 
