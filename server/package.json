@@ -1,0 +1,11 @@
+{
+     "name": "mukhin_chat",
+     "description": "example chat application with socket.io",
+     "version": "0.0.1",
+     "dependencies": {
+          "express": "",
+          "pbjs": "0.0.5",
+          "protobufjs": "^6.8.8",
+          "socket.io": ""
+     }
+}
