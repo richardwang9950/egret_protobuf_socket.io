@@ -15,6 +15,7 @@ pb-egret add
 
 创建.proto 文件
 
+
 ...
 syntax = "proto3";
 package test;
